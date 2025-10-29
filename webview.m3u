@@ -17,6 +17,8 @@ webview://https://yangshipin.cn/tv/home?pid=600001800
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-3 综艺
 webview://https://tv.cctv.com/live/cctv3/
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视;央视频",CCTV-3 综艺
+webview://https://yangshipin.cn/tv/home?pid=600001801
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际
 webview://https://tv.cctv.com/live/cctv4/
@@ -278,3 +280,4 @@ webview://https://www.gdtv.cn/tvChannelDetail/102
 
 #EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/GRTN教育频道.png" group-title="荔枝网",GRTN教育频道
 webview://https://www.gdtv.cn/tvChannelDetail/104
+
