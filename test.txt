@@ -48,28 +48,10 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 深圳卫视4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 
 港台频道,#genre#
-有线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
-无线翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
-无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
-有线综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
-有线综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
-民视第一频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
-民视闽南频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-东森超视频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
-东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
-中天亚洲频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
-八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
-凤凰电影频标,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-无线赛马,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
-Plus综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
-广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
-广东新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
-广东民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
-广东影视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
+NOW星影,p3p://167.114.175.6:55331/65423b7b00047dbb1bebd20b45f374d2
+NOW星影,p3p://167.114.175.6:55331/65bf5e010005226704b84f4f048a4148
+NOW爆谷,p3p://167.114.175.6:55331/65bf60df000777a004c3831b56247b8e
+NOW爆谷,p3p://167.114.175.6:55331/65423beb00082fd01bed887e0ae23bbf
 
 移动网络,#genre#
 CCTV1,http://sh.lnott.top:880/dx01.m3u8
